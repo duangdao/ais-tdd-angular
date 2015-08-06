@@ -21,6 +21,13 @@
   },
   "homepage": "https://github.com/ballweera/ais-tdd-angular",
   "dependencies": {
-    "gulp": "^3.9.0"
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "jasmine-core": "^2.3.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp-live-server": "0.0.23"
   }
 }
